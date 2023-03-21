@@ -1,0 +1,126 @@
+.left-nav span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #0B132A;
+}
+
+.navbar_bar {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.center-nav a,
+.center-nav span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #4F5665;
+}
+
+.center-nav a:hover,
+.center-nav span:hover {
+    transform: scale(1.1);
+    color: #9e684b;
+    cursor: pointer;
+}
+
+.burger {
+    text-decoration: none;
+    color: #0B132A;
+    font-weight: 700;
+}
+
+.img_userprofile {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+.box-search {
+    position: relative;
+    /* top: 50%;
+    left: 50%; */
+    /* transform: translate(-50%,-50%); */
+    transition: all 1s;
+    width: 50px;
+    height: 50px;
+    /* background: #EFEEEE; */
+    background: #FFBA33;
+    box-sizing: border-box;
+    border-radius: 25px;
+    /* border: 4px solid #EFEEEE; */
+    border: 4px solid #FFBA33;
+    padding: 5px;
+}
+
+.input-search {
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    ;
+    height: 42.5px;
+    line-height: 30px;
+    outline: 0;
+    border: 0;
+    display: none;
+    font-size: 1em;
+    border-radius: 20px;
+    padding: 0 40px 0 5px;
+    background: #FFBA33;
+}
+
+.fa_icon {
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 3px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    color: #07051a;
+    text-align: center;
+    font-size: 1.2em;
+    transition: all 1s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-search:hover,
+.box-search:valid {
+    width: 250px;
+    cursor: pointer;
+}
+
+.box-search:hover .input-search,
+.box-search:valid .input-search {
+    display: block;
+}
+
+
+
+
+
+
+.logout-style {
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #FFBA33;
+    border: none;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: black;
+}

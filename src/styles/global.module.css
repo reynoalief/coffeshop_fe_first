@@ -1,0 +1,198 @@
+/* 
+text style
+*/
+
+.text-a {
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 50px;
+}
+.text-b {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+}
+.text-b.footer:hover {
+  color: var(--text1-color);
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+}
+.text-c {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 30px;
+}
+.text-d {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.text-e {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+}
+.text-f {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+}
+.text-g {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 25px;
+}
+.text-h {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+}
+.text-i {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+}
+.text-j {
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 52px;
+}
+.text-k {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 34px;
+}
+.text-k2 {
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 36px;
+}
+.text-l {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 37px;
+}
+.text-m {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+}
+.text-n {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+}
+.text-n2 {
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 37px;
+}
+.text-o {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+.text-o2 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+}
+.text-p {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 45px;
+}
+.text-q {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+}
+.text-r {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+}
+.text-s {
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 30px;
+}
+.text-t {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+}
+.text-u {
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 70px;
+}
+.text-v {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.text-w {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+.text-x {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.text-y {
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 97px;
+}
+.text-z {
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 35;
+}
+.text-aa {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 22px;
+}
+.text-ab {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+}
+.text-ab2 {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+}
+.text-ac {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 45px;
+}
+.text-ad {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 50px;
+}
+.text-ae {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 50px;
+}
+.text-af {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 22px;
+}
+.text-ag {
+  font-weight: 700;
+  font-size: 33px;
+  line-height: 33px;
+}
