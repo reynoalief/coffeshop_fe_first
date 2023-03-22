@@ -1,20 +1,20 @@
-<h1 align="center"><u>Bujank C☕ffee</u></h1>
+<h1 align="center"><u>Coffeeshop</u></h1>
 <p align="left">
 <h2>Built with</h2>
 </p>
 
-[![Requirements](https://skillicons.dev/icons?i=react,nodejs,postgres,express)](https://skillicons.dev)
+[![Requirements](https://skillicons.dev/icons?i=react,nodejs,postgres,express,supabase,postman,vecel,cyclic)](https://skillicons.dev)
 
 <br>
 
 ## Table of Contents
 
--  [Introduction](#introduction)
--  [Features](#features)
--  [Requirements](#requirements)
--  [Usage](#usage-for-development)
--  [Screenshots](#screenshots)
--  [Related Project](#related-project)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Usage](#usage-for-development)
+- [Screenshots](#screenshots)
+- [Related Project](#related-project)
 
 ## Introduction
 
@@ -23,11 +23,11 @@
 
 ## Features
 
--  Auth
--  Get Category and Search Product
--  Order feature for customer
--  Payment feature
--  And others
+- Auth
+- Get Category and Search Product
+- Order feature for customer
+- Payment feature
+- And others
 
 ## Requirements
 
@@ -58,9 +58,9 @@
 
 ## Related Project
 
--  Frontend Deploy [`here`](https://bujankcoffee-fe.vercel.app/)
--  Backend API Deploy [`here`](https://bebujankcoffee-1mt7.vercel.app/)
--  Backend API Documentation [`here`](https://documenter.getpostman.com/view/23706970/2s8ZDR75hg)
--  Backend Repository [`here`](https://github.com/imbasri/bebujankcoffee)
+- Frontend Deploy [`here`](https://bujankcoffee-fe.vercel.app/)
+- Backend API Deploy [`here`](https://bebujankcoffee-1mt7.vercel.app/)
+- Backend API Documentation [`here`](https://documenter.getpostman.com/view/23706970/2s8ZDR75hg)
+- Backend Repository [`here`](https://github.com/imbasri/bebujankcoffee)
 
 <p align="center"><sub><b>&copy;2022❤️BujankCoffee☕</b></sub></p>
